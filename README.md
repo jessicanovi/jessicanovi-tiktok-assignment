@@ -1,4 +1,7 @@
-# assignment_demo_2023
+Name: Jessica Charisse Novianto
+Email: jcnovianto.2020@scis.smu.edu.sg
+
+# Assignment_demo_2023
 
 ![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
 
